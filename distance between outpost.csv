@@ -1,22 +1,22 @@
-Route,Outpost1,Outpost2
-Sanctuary_Golden =  358,Sanctuary,Golden
-Sanctuary_Plunder =  1136,Sanctuary,Plunder
-Sanctuary_Ancient =  1406,Sanctuary,Ancient
-Sanctuary_Dagger =  701,Sanctuary,Dagger
-Sanctuary_Galleon =  1163,Sanctuary,Galleon
-Sanctuary_Morrow =  1900,Sanctuary,Morrow
-Golden_Plunder =  1015,Golden,Plunder
-Golden_Ancient =  1376,Golden,Ancient
-Golden_Dagger =  918,Golden,Dagger
-Golden_Galleon =  1350,Golden,Galleon
-Golden_Morrow =  1900,Golden,Morrow
-Plunder_Ancient =  666,Plunder,Ancient
-Plunder_Dagger =  1019,Plunder,Dagger
-Plunder_Galleon =  1215,Plunder,Galleon
-Plunder_Morrow =  1205,Plunder,Morrow
-Ancient_Dagger =  916,Ancient,Dagger
-Ancient_Galleon =  880,Ancient,Galleon
-Ancient_Morrow =  487,Ancient,Morrow
-Dagger_Galleon =  449,Dagger,Galleon
-Dagger_Morrow =  1225,Dagger,Morrow
-Galleon_Morrow =  955,Galleon,Morrow
+Route,Distance,Outpost1,Outpost2
+Sanctuary_Golden,358,Sanctuary,Golden
+Sanctuary_Plunder,1136,Sanctuary,Plunder
+Sanctuary_Ancient,1406,Sanctuary,Ancient
+Sanctuary_Dagger,701,Sanctuary,Dagger
+Sanctuary_Galleon,1163,Sanctuary,Galleon
+Sanctuary_Morrow,1900,Sanctuary,Morrow
+Golden_Plunder,1015,Golden,Plunder
+Golden_Ancient,1376,Golden,Ancient
+Golden_Dagger,918,Golden,Dagger
+Golden_Galleon,1350,Golden,Galleon
+Golden_Morrow,1900,Golden,Morrow
+Plunder_Ancient,666,Plunder,Ancient
+Plunder_Dagger,1019,Plunder,Dagger
+Plunder_Galleon,1215,Plunder,Galleon
+Plunder_Morrow,1205,Plunder,Morrow
+Ancient_Dagger,916,Ancient,Dagger
+Ancient_Galleon,880,Ancient,Galleon
+Ancient_Morrow,487,Ancient,Morrow
+Dagger_Galleon,449,Dagger,Galleon
+Dagger_Morrow,1225,Dagger,Morrow
+Galleon_Morrow,955,Galleon,Morrow
